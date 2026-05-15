@@ -8,4 +8,4 @@ I am a 16 years old italian developer, working on video game development, especi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=beffaxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=beffaxx&color=00ffff)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=beffaxx&color=grey)](https://visitcount.itsvg.in)
